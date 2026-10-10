@@ -1,0 +1,24 @@
+{
+  "name": "formaloo-oi",
+  "displayName": "Formaloo OI",
+  "version": "1.0.0",
+  "description": "Build and manage Formaloo forms, submissions, apps, and integrations from Cursor through the hosted Formaloo MCP server.",
+  "author": {
+    "name": "Formaloo",
+    "email": "dev@formaloo.com"
+  },
+  "homepage": "https://www.formaloo.com/",
+  "repository": "https://github.com/formaloo/formaloo-cursor-plugin",
+  "license": "MIT",
+  "keywords": [
+    "formaloo",
+    "forms",
+    "surveys",
+    "no-code",
+    "data-collection",
+    "crm",
+    "mcp",
+    "integrations"
+  ],
+  "logo": "assets/logo.svg"
+}
